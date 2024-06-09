@@ -1,8 +1,4 @@
-/*!
-Ball Pool - heart
-@wakana-k
-https://codepen.io/wakana-k/pen/jOdbwXq
-*/
+
 "use strict";
 
 !(function () {
